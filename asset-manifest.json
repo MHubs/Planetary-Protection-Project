@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Planetary-Protection-Project/static/css/main.4808e07e.chunk.css",
-    "main.js": "/Planetary-Protection-Project/static/js/main.6ec76437.chunk.js",
-    "main.js.map": "/Planetary-Protection-Project/static/js/main.6ec76437.chunk.js.map",
+    "main.js": "/Planetary-Protection-Project/static/js/main.b3808be9.chunk.js",
+    "main.js.map": "/Planetary-Protection-Project/static/js/main.b3808be9.chunk.js.map",
     "runtime-main.js": "/Planetary-Protection-Project/static/js/runtime-main.f8de90de.js",
     "runtime-main.js.map": "/Planetary-Protection-Project/static/js/runtime-main.f8de90de.js.map",
     "static/js/2.c4e348ba.chunk.js": "/Planetary-Protection-Project/static/js/2.c4e348ba.chunk.js",
@@ -10,7 +10,7 @@
     "index.html": "/Planetary-Protection-Project/index.html",
     "static/css/main.4808e07e.chunk.css.map": "/Planetary-Protection-Project/static/css/main.4808e07e.chunk.css.map",
     "static/js/2.c4e348ba.chunk.js.LICENSE.txt": "/Planetary-Protection-Project/static/js/2.c4e348ba.chunk.js.LICENSE.txt",
-    "static/js/main.6ec76437.chunk.js.LICENSE.txt": "/Planetary-Protection-Project/static/js/main.6ec76437.chunk.js.LICENSE.txt",
+    "static/js/main.b3808be9.chunk.js.LICENSE.txt": "/Planetary-Protection-Project/static/js/main.b3808be9.chunk.js.LICENSE.txt",
     "static/media/bitcoin.png": "/Planetary-Protection-Project/static/media/bitcoin.47422bea.png",
     "static/media/blob.png": "/Planetary-Protection-Project/static/media/blob.e3950678.png",
     "static/media/cercuri.png": "/Planetary-Protection-Project/static/media/cercuri.05cc0d04.png",
@@ -44,6 +44,6 @@
     "static/js/runtime-main.f8de90de.js",
     "static/js/2.c4e348ba.chunk.js",
     "static/css/main.4808e07e.chunk.css",
-    "static/js/main.6ec76437.chunk.js"
+    "static/js/main.b3808be9.chunk.js"
   ]
 }
