@@ -1,23 +1,22 @@
 {
   "files": {
     "main.css": "/Planetary-Protection-Project/static/css/main.4808e07e.chunk.css",
-    "main.js": "/Planetary-Protection-Project/static/js/main.b7a8b5a9.chunk.js",
-    "main.js.map": "/Planetary-Protection-Project/static/js/main.b7a8b5a9.chunk.js.map",
+    "main.js": "/Planetary-Protection-Project/static/js/main.f0b941ea.chunk.js",
+    "main.js.map": "/Planetary-Protection-Project/static/js/main.f0b941ea.chunk.js.map",
     "runtime-main.js": "/Planetary-Protection-Project/static/js/runtime-main.f8de90de.js",
     "runtime-main.js.map": "/Planetary-Protection-Project/static/js/runtime-main.f8de90de.js.map",
-    "static/js/2.1a64e74c.chunk.js": "/Planetary-Protection-Project/static/js/2.1a64e74c.chunk.js",
-    "static/js/2.1a64e74c.chunk.js.map": "/Planetary-Protection-Project/static/js/2.1a64e74c.chunk.js.map",
+    "static/js/2.dc6a3486.chunk.js": "/Planetary-Protection-Project/static/js/2.dc6a3486.chunk.js",
+    "static/js/2.dc6a3486.chunk.js.map": "/Planetary-Protection-Project/static/js/2.dc6a3486.chunk.js.map",
     "index.html": "/Planetary-Protection-Project/index.html",
     "static/css/main.4808e07e.chunk.css.map": "/Planetary-Protection-Project/static/css/main.4808e07e.chunk.css.map",
-    "static/js/2.1a64e74c.chunk.js.LICENSE.txt": "/Planetary-Protection-Project/static/js/2.1a64e74c.chunk.js.LICENSE.txt",
-    "static/js/main.b7a8b5a9.chunk.js.LICENSE.txt": "/Planetary-Protection-Project/static/js/main.b7a8b5a9.chunk.js.LICENSE.txt",
+    "static/js/2.dc6a3486.chunk.js.LICENSE.txt": "/Planetary-Protection-Project/static/js/2.dc6a3486.chunk.js.LICENSE.txt",
+    "static/js/main.f0b941ea.chunk.js.LICENSE.txt": "/Planetary-Protection-Project/static/js/main.f0b941ea.chunk.js.LICENSE.txt",
     "static/media/bitcoin.png": "/Planetary-Protection-Project/static/media/bitcoin.47422bea.png",
     "static/media/blob.png": "/Planetary-Protection-Project/static/media/blob.e3950678.png",
     "static/media/cercuri.png": "/Planetary-Protection-Project/static/media/cercuri.05cc0d04.png",
     "static/media/chester-wade.jpg": "/Planetary-Protection-Project/static/media/chester-wade.e891184f.jpg",
     "static/media/blk-design-system-react.scss?v=1.2.0": "/Planetary-Protection-Project/static/media/square5.16283001.png",
     "static/media/denys.jpg": "/Planetary-Protection-Project/static/media/denys.1b33975a.jpg",
-    "static/media/dots.png": "/Planetary-Protection-Project/static/media/dots.1e305f98.png",
     "static/media/etherum.png": "/Planetary-Protection-Project/static/media/etherum.628f765f.png",
     "static/media/fabien-bazanegue.jpg": "/Planetary-Protection-Project/static/media/fabien-bazanegue.3c5ff5a0.jpg",
     "static/media/github.svg": "/Planetary-Protection-Project/static/media/github.6c955556.svg",
@@ -42,8 +41,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.f8de90de.js",
-    "static/js/2.1a64e74c.chunk.js",
+    "static/js/2.dc6a3486.chunk.js",
     "static/css/main.4808e07e.chunk.css",
-    "static/js/main.b7a8b5a9.chunk.js"
+    "static/js/main.f0b941ea.chunk.js"
   ]
 }
