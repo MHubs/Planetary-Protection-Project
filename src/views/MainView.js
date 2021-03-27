@@ -18,9 +18,9 @@
 import React from "react";
 
 // core components
-import IndexNavbar from "components/Navbars/IndexNavbar.js";
-import PageHeader from "components/PageHeader/PageHeader.js";
-import Footer from "components/Footer/Footer.js";
+import IndexNavbar from "../components/Navbars/IndexNavbar.js";
+import PageHeader from "../components/PageHeader/PageHeader.js";
+import Footer from "../components/Footer/Footer.js";
 import {
     Button,
     Card,
@@ -56,12 +56,12 @@ export default function MainView(props) {
                         <img
                             alt="..."
                             className="dots"
-                            src={require("assets/img/dots.png").default}
+                            src={require("../assets/img/dots.png").default}
                         />
                         <img
                             alt="..."
                             className="path"
-                            src={require("assets/img/path4.png").default}
+                            src={require("../assets/img/path4.png").default}
                         />
                         <Container className="align-items-center" id={"ScrollTo"}>
                             <Row>

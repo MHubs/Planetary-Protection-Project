@@ -18,10 +18,10 @@
 import React from "react";
 
 // core components
-import IndexNavbar from "components/Navbars/IndexNavbar.js";
-import PageHeader from "components/PageHeader/PageHeader.js";
-import Footer from "components/Footer/Footer.js";
-import Quote from "components/PageHeader/Quote.js"
+import IndexNavbar from "../components/Navbars/IndexNavbar.js";
+import PageHeader from "../components/PageHeader/PageHeader.js";
+import Footer from "../components/Footer/Footer.js";
+import Quote from "../components/PageHeader/Quote.js"
 
 // sections for this page/view
 import {Col, Container, Row} from "reactstrap";

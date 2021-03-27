@@ -18,10 +18,10 @@
 import React from "react";
 
 // core components
-import IndexNavbar from "components/Navbars/IndexNavbar.js";
-import PageHeader from "components/PageHeader/PageHeader.js";
-import Footer from "components/Footer/Footer.js";
-import Quote from "components/PageHeader/Quote.js"
+import IndexNavbar from "../components/Navbars/IndexNavbar.js";
+import PageHeader from "../components/PageHeader/PageHeader.js";
+import Footer from "../components/Footer/Footer.js";
+import Quote from "../components/PageHeader/Quote.js"
 
 // sections for this page/view
 import {
@@ -93,7 +93,7 @@ export default function ConcernedView(props) {
                                 top: "50%",
                                 width: "60%"
                             }}
-                            src={require("assets/img/path1.png").default}
+                            src={require("../assets/img/path1.png").default}
                         />
                         <Row className="justify-content-center">
                             <Col lg="8" md="12">

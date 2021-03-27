@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import {BrowserRouter, HashRouter, Route, Switch} from "react-router-dom";
 
 import "./assets/css/nucleo-icons.css";
-import "./assets/scss/blk-design-system-react.scss?v=1.2.0";
+import "./assets/scss/blk-design-system-react.scss";
 import "./assets/demo/demo.css";
 
 import MainView from "./views/MainView.js";

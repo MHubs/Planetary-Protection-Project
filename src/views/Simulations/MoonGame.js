@@ -44,7 +44,7 @@ export default class MoonGame extends React.Component {
                 <img
                     alt="..."
                     className="path"
-                    src={require("assets/img/path1.png").default}
+                    src={require("../../assets/img/path1.png").default}
                 />
                 <Container>
                     <Row>
