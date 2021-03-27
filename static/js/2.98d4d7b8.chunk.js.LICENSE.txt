@@ -10,21 +10,6 @@ object-assign
   http://jedwatson.github.io/classnames
 */
 
-/*!
- * Chart.js v2.9.4
- * https://www.chartjs.org
- * (c) 2020 Chart.js Contributors
- * Released under the MIT License
- */
-
-/*!
- * perfect-scrollbar v1.5.0
- * Copyright 2020 Hyunje Jun, MDBootstrap and Contributors
- * Licensed under MIT
- */
-
-/*! nouislider - 14.6.3 - 11/19/2020 */
-
 /** @license React v0.20.1
  * scheduler.production.min.js
  *
@@ -94,5 +79,3 @@ object-assign
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  * SOFTWARE.
  */
-
-//! moment.js
