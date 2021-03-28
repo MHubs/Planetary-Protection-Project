@@ -2,6 +2,7 @@ import React from "react";
 
 // reactstrap components
 import {UncontrolledTooltip} from "reactstrap";
+import {HashLink} from "react-router-hash-link";
 
 export default class Reference extends React.Component {
 
@@ -22,7 +23,8 @@ export default class Reference extends React.Component {
             </a>);
 
         let noRef =
-            (<a href={"#citations"} id={"tooltip-" + this.props.citeID} className="text-primary" >
+            (<a href='javascript:void(0)' id={"tooltip-" + this.props.citeID} className="text-primary" >
+                <HashLink to={"/" + this.props.page + "#citations"} >
                 <sup>
                     {" " + this.props.citeID + " "}
                 </sup>
@@ -33,6 +35,7 @@ export default class Reference extends React.Component {
                 >
                     {this.props.citation}
                 </UncontrolledTooltip>
+                </HashLink>
             </a>);
 
         return (

@@ -154,7 +154,7 @@ export default function WhatIsView(props) {
                                 <h2 className="title">Can Earth Life Survive in Outer Space?</h2>
                                 <h4 className="description">
                                     Scientists have conducted multiple experiments with sending microscopic bacteria
-                                    into space.<Reference citeID={4} citation={"View Citations"} noRef={true}/>
+                                    into space.<Reference citeID={4} page={"what-is"} citation={"View Citations"} noRef={true}/>
                                     While most life cannot survive in space, there are a couple of microorganisms that
                                     have been able to.
                                     Many of these microorganisms are known as "extremophiles" because they love to live

@@ -372,7 +372,7 @@ export default function ConcernedView(props) {
                                     <br/>
                                     <br/>
                                     This is good because this actually makes non-governmental agencies subject to the
-                                    Outer Space Treaty. It does <b>not</b> however make
+                                    Outer Space Treaty. It does <b>not</b>, however, make
                                     it so that they must follow COSPAR's Planetary Protection Policy. This must only
                                     happen if a particular State chooses to enforce it. As of 2021,
                                     no State has added COSPAR's Planetary Protection Policy to their national laws.
