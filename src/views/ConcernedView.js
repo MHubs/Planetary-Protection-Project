@@ -177,10 +177,10 @@ export default function ConcernedView(props) {
                                             <TabPane tabId="link1">
                                                 <span style={{textAlign: "center"}}>
                                                     <h4 className="description">
-                                                        Humans have left 96 known bags of urine, poop, and vomit on the Moon.
+                                                        Humans have left 96 known bags of urine, feces, and vomit on the Moon.
                                                         <Reference citeID={4}
                                                                    citation={"https://www.theatlantic.com/technology/archive/2012/12/the-trash-weve-left-on-the-moon/266465/"}/>
-                                                        In human poop, there is roughly 100 billion bacteria per gram.
+                                                        In human feces, there is roughly 100 billion bacteria per gram.
                                                         <Reference citeID={5}
                                                                    citation={"https://www.cell.com/cell/fulltext/S0092-8674(16)00053-2"}/>
                                                         Of that, almost 50% of that bacteria can survive in oxygen-free environments.
@@ -209,7 +209,7 @@ export default function ConcernedView(props) {
                                                         in an oven or microwave and can even strap themselves to chairs to simulate a normal dining experience.
                                                         <Reference citeID={8}
                                                                    citation={"https://www.rmg.co.uk/stories/topics/what-do-astronauts-eat-space"}/>
-                                                        However, back in the days of the Apollo missions, astronauts ate packaged food such as beef, vegetables, canadian bacon, and apple sauce.
+                                                        However, back in the days of the Apollo missions, astronauts ate packaged food such as beef, vegetables, canadian bacon, and applesauce.
                                                         On the Moon in particular, Apollo 15 astronauts ate apricot cereal bars as snacks.
                                                         <Reference citeID={9}
                                                                    citation={"https://www.businessinsider.com/astronaut-food-in-space-timeline-2019-7"}/>

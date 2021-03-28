@@ -142,7 +142,7 @@ export default function FutureView(props) {
                                                citation={"https://www.frontiersin.org/articles/10.3389/fspas.2020.589817/full"}/>
                                     <br/>
                                     <br/>
-                                    An interesting aspect of environmental space protections raised by <a href={"https://www.frontiersin.org/articles/10.3389/fspas.2020.589817/full"} rel={"noreferrer"}> Thomas Cheney</a>,
+                                    An interesting aspect of environmental space protections raised by <a href={"http://www.open.ac.uk/people/telc3"} target="_blank" rel={"noreferrer"}> Thomas Cheney</a>,
                                     Faculty of Science, Business, and Law at The Open University in the United Kingdom, and his collaborators was the issue of "space junk"
                                     in accordance with Article I of the Outer Space Treaty. The article describes that all states have "free access" to all areas of outer space
                                     similar to the United Nations Convention on the Law of the Sea. If "space junk" becomes a "hazard of navigation" that could prevent "free access"
