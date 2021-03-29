@@ -44,6 +44,7 @@ import Reference from "../components/Footer/Reference";
 import Citations from "../components/Footer/Citations";
 import {HashLink} from "react-router-hash-link";
 import {Link} from "react-router-dom";
+import ReactPlayer from 'react-player'
 
 
 export default function PreviousEffortsView(props) {
@@ -445,7 +446,25 @@ export default function PreviousEffortsView(props) {
                                         </TabContent>
                                     </CardBody>
                                 </Card>
+                            </Col>
+                        </Row>
+                        <Row className="justify-content-center">
+                            <Col lg="8" md="12">
 
+                                <h2 className={"title"}>Explore NASA Goddard's Clean Room with Laura Betz</h2>
+                                <span className={"player-wrapper"}>
+                                    <ReactPlayer className='react-player'
+                                                 url= {'https://svs.gsfc.nasa.gov/vis/a010000/a011700/a011771/Cleanroom_Goodard_Tour_with_Laura_HD_Cleanroom_Goodard_Tour_with_Laura_HD_ipod_lg.m4v'}
+                                                 width='100%'
+                                                 light={'https://svs.gsfc.nasa.gov/vis/a010000/a011700/a011771/Screen_Shot_2015-02-11_at_4.40.33_PM.png'}
+                                                 controls = {true}/>
+                                    Credit: NASA's Goddard Space Flight Center
+                                </span>
+                            </Col>
+                        </Row>
+
+                        <Row className="justify-content-center">
+                            <Col lg="8" md="12">
                                 <h2 className={"title"}>Mars Rovers</h2>
                                 <h4 className="description">
                                     In accordance with COSPAR's mission category policy above, each of NASA's Mars
