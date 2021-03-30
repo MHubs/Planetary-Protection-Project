@@ -54,7 +54,7 @@ export default function Footer() {
             <div style={creditStyle}>
               <h2 >Website Template</h2>
               <h3>
-                <u><a href={"https://www.creative-tim.com/"} target="_blank"  rel="noreferrer">Creative Tim</a></u>
+                <u><a href={"https://www.creative-tim.com/templates/free"} target="_blank"  rel="noreferrer">Creative Tim</a></u>
               </h3>
             </div>
           </Col>
