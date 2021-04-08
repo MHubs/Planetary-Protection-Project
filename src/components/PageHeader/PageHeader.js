@@ -34,9 +34,9 @@ export default function PageHeader(props) {
       <div className="squares square7" style={{borderRadius: '50%'}}/>
       <Container>
         <div className="content-center brand">
-          <h1 className="h1-seo">{props.title != null ? props.title : "Killing the Solar System"}</h1>
+          <h1 className="h1-seo" style={{fontSize:52}}>{props.title != null ? props.title : "Reimagining Planetary Protection for the 21st Century"}</h1>
           <h3 className="d-none d-sm-block">
-              {props.subtitle != null ? props.subtitle : "The Urgent Need to Update and Reimagine Planetary Protection for the 21st Century"}
+              {props.subtitle != null ? props.subtitle : "The Urgent Need to Update Planetary Protection for the New Space Age"}
           </h3>
             <Button
                 className="btn-simple btn-round"

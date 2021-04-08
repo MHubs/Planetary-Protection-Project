@@ -224,7 +224,7 @@ export default function WhatIsView(props) {
                                     <CardBody>
                                         <TabContent className="tab-space" activeTab={"link" + textTabs}>
                                             <TabPane tabId="link4">
-                                                <p>
+                                                <p className="description">
                                                     Clostridium botulinum is a bacterium that is able to produce a
                                                     neurotoxin that is
                                                     deadly for humans. This neurotoxin is what causes the illness
@@ -241,7 +241,7 @@ export default function WhatIsView(props) {
                                                 </p>
                                             </TabPane>
                                             <TabPane tabId="link5">
-                                                <p>
+                                                <p className="description">
                                                     Also known as "Water Bears", tardigrades are a species of
                                                     microscopic animal.
                                                     They eat small organisms such as algae, rotifers, nematodes, and
@@ -262,7 +262,7 @@ export default function WhatIsView(props) {
                                                 </p>
                                             </TabPane>
                                             <TabPane tabId="link6">
-                                                <p>
+                                                <p className="description">
                                                     This fungus causes "black mold" on fruits and vegetables. While it
                                                     usually does not harm
                                                     humans and animals, it can be found on the human body. A study

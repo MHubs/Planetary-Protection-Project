@@ -81,7 +81,7 @@ export default function MainView(props) {
                                             Image: NASA JPL
                                             <h4 className="title">
                                                 Explore in detail as planetary protection is discussed and defined. Determine why it is
-                                                important and conduct tests to discover what Earth organisms can live beyond our planet.
+                                                important and conduct tests to discover which Earth organisms can live beyond our planet.
                                             </h4>
                                         </CardHeader>
                                         <CardBody>

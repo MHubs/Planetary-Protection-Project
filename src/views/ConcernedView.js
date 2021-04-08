@@ -144,7 +144,6 @@ export default function ConcernedView(props) {
                                                         active: textTabs === 1,
                                                     })}
                                                     onClick={(e) => setTextTabs(1)}
-                                                    href="#categoryI"
                                                 >
                                                     Bags of Human Waste
                                                 </NavLink>

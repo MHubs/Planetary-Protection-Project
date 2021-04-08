@@ -15,15 +15,16 @@ export default function Quote(props) {
                         <Container>
                             <Row>
                                 <Col>
-                                    <p className={"text-info description"}>
+                                    <p className={" description"} style={{color: "#67b2fa", fontSize: 20}}>
                                     {props.quote + " " }
-
                                     <Reference citeID={props.citeID} citation={props.citation} />
                                     </p>
                                 </Col>
                             </Row>
                         </Container>
-                        {props.speaker !== "" ? (<><br /> <small>- {props.speaker}</small></>) : <></>}
+
+                            {props.speaker !== "" ? (<><br /> <small>- {props.speaker}</small></>) : <></>}
+
                     </div>
                 </blockquote>
             </Container>

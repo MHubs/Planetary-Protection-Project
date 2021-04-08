@@ -100,7 +100,7 @@ $default:       #344675 !default;
 $primary:       #e14eca !default;
 $secondary:     #f4f5f7 !default;
 $success:       #00f2c3 !default;
-$info:          #1d8cf8 !default;
+$info:          #67b2fa !default;
 $warning:       #ff8d72 !default;
 $danger:        #fd5d93 !default;
 $black:         #222a42 !default;
@@ -128,7 +128,7 @@ $danger-opacity:       rgba(255, 54, 54, .3) !default;
 
 $light-gray:                 #E3E3E3 !default;
 $medium-gray:                #DDDDDD !default;
-$dark-gray:                  #9A9A9A !default;
+$dark-gray:                  #c0c0c0 !default;
 $card-stats-gray:            #808080 !default;
 $active-gray:                #777777 !default;
 $nav-gray:                   #444444 !default;
@@ -381,7 +381,7 @@ $font-family-alt:             'Poppins', sans-serif !default;
 
 $font-size-dash:              .875rem !default;
 
-$font-size-base:              $font-size-dash !default; // Assumes the browser default, typically `16px`
+$font-size-base:              $font-size-dash * 1.1 !default; // Assumes the browser default, typically `16px`
 $font-size-xl:                ($font-size-base * 1.428);
 $font-size-lg:                ($font-size-base * 1.142);
 $font-size-sm:                ($font-size-base * .85714286);

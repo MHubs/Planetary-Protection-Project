@@ -91,27 +91,27 @@ export default function IndexNavbar(props) {
                 {props.name}
               </DropdownToggle>
               <DropdownMenu className="dropdown-with-icons">
-                <DropdownItem tag={Link} to={"/"}>
+                <DropdownItem tag={Link} to={"/"} style={{color:"#4c4c4c"}}>
                   <i className="tim-icons icon-spaceship" />
                   Home
                 </DropdownItem>
-                <DropdownItem tag={Link} to={"/what-is"}>
+                <DropdownItem tag={Link} to={"/what-is"} style={{color:"#4c4c4c"}}>
                     <i className="tim-icons icon-world" />
                     What is Planetary Protection?
                 </DropdownItem>
-                <DropdownItem tag={Link} to={"/previous-efforts"}>
+                <DropdownItem tag={Link} to={"/previous-efforts"} style={{color:"#4c4c4c"}}>
                     <i className="tim-icons icon-bullet-list-67" />
                     Previous Protection Efforts
                 </DropdownItem>
-                <DropdownItem tag={Link} to={"/concerned"}>
+                <DropdownItem tag={Link} to={"/concerned"} style={{color:"#4c4c4c"}}>
                     <i className="tim-icons icon-single-02" />
                     Should We Be Concerned?
                 </DropdownItem>
-                <DropdownItem tag={Link} to={"/future"}>
+                <DropdownItem tag={Link} to={"/future"} style={{color:"#4c4c4c"}}>
                     <i className="tim-icons icon-image-02" />
                     Future of Planetary Protection
                 </DropdownItem>
-                <DropdownItem href="https://github.com/MHubs/Planetary-Protection-Project">
+                <DropdownItem href="https://github.com/MHubs/Planetary-Protection-Project" style={{color:"#4c4c4c"}}>
                   <i className="tim-icons icon-paper" />
                   Documentation
                 </DropdownItem>
