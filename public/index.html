@@ -10,6 +10,15 @@
 <!--  <link rel="stylesheet" href="%PUBLIC_URL%/css/media-queries.css">-->
 <!--  <link rel="stylesheet" href="%PUBLIC_URL%/css/magnific-popup.css">-->
 
+  <script>
+    let targetUrl = 'https://mhubs.github.io/Planetary-Protection-Project/#/';
+    let query = '?url=' + encodeURIComponent(targetUrl);
+    let xmlHttp = new XMLHttpRequest();
+    xmlHttp.withCredentials = true;
+    xmlHttp.open('GET', 'https://hitcounter.pythonanywhere.com/count' + query, false);
+    xmlHttp.send(null);
+    count = xmlHttp.responseText;
+  </script>
 
   <title>Planetary Protection</title>
 </head>
