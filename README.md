@@ -109,6 +109,8 @@ Contributions are what make the open source community such an amazing place to b
 
 This website and project is not affiliated with any governmental or commercial space agency.
 
+![Hits](https://hitcounter.pythonanywhere.com/nocount/tag.svg?url=https%3A%2F%2Fmhubs.github.io%2FPlanetary-Protection-Project%2F)
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/MHubs/Planetary-Protection-Project.svg?style=for-the-badge
